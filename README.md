@@ -1,3 +1,5 @@
+# About
+my silly petite little neovim configuration, convoluted installation instructions because they are mostly for me.
 # Installation
 ## First, install packer
 `git clone --depth 1 https://github.com/wbthomason/packer.nvim\
