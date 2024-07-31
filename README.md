@@ -1,3 +1,5 @@
+# **ARCHIVED - NOW HANDELED IN MY DOTFILES REPO**
+
 # About
 my silly petite little neovim configuration, convoluted installation instructions because they are mostly for me.
 # Installation
