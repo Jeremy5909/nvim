@@ -2,8 +2,8 @@ vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 
 -- Can move highlighted text with J and K
-vim.keymap.set("v", "J", ":m '>+1<CR>gc=gv")
-vim.keymap.set("v", "K", ":m '<-2<CR>gc=gv")
+vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
+vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 
 vim.keymap.set("n", "J", "mzJ`z") -- better combining
 
